@@ -1,0 +1,17 @@
+#nav_bar {
+  list-style: none;
+  margin-left: 0px;
+  padding: 0px;
+}
+
+#nav_bar li {
+  display: inline;
+}
+
+#nav_bar li a {
+  text-decoration: none;
+}
+
+.solution_text {
+  margin-top: 0px;
+}
